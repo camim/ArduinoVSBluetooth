@@ -8,3 +8,13 @@ C:\Users\Camila\source\repos\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\Arduino
 C:\Users\Camila\source\repos\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.csproj.CoreCompileInputs.cache
 C:\Users\Camila\source\repos\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.exe
 C:\Users\Camila\source\repos\ArduinoBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.pdb
+C:\Users\Camila\source\repos\ArduinoVSBluetooth\ArduinoBluetooth\bin\Debug\ArduinoBluetooth.exe.config
+C:\Users\Camila\source\repos\ArduinoVSBluetooth\ArduinoBluetooth\bin\Debug\ArduinoBluetooth.exe
+C:\Users\Camila\source\repos\ArduinoVSBluetooth\ArduinoBluetooth\bin\Debug\ArduinoBluetooth.pdb
+C:\Users\Camila\source\repos\ArduinoVSBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.csprojAssemblyReference.cache
+C:\Users\Camila\source\repos\ArduinoVSBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.Form1.resources
+C:\Users\Camila\source\repos\ArduinoVSBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.Properties.Resources.resources
+C:\Users\Camila\source\repos\ArduinoVSBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.csproj.GenerateResource.cache
+C:\Users\Camila\source\repos\ArduinoVSBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.csproj.CoreCompileInputs.cache
+C:\Users\Camila\source\repos\ArduinoVSBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.exe
+C:\Users\Camila\source\repos\ArduinoVSBluetooth\ArduinoBluetooth\obj\Debug\ArduinoBluetooth.pdb

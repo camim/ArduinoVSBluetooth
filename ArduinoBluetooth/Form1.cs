@@ -132,7 +132,10 @@ namespace ArduinoBluetooth
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
-            puerto.Close();
+            if (puerto.IsOpen)
+            {
+                puerto.Close();
+            }
         }
 
         private void Agregar_Click(object sender, EventArgs e)
